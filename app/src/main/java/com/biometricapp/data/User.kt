@@ -1,9 +1,6 @@
 package com.biometricapp.data
-
+import com.google.firebase.firestore.PropertyName
 data class User(
-    val name: String?,
-    val age: Int?,
-    val id: String?,
-    val token: String,
-    val userId: String
+    @PropertyName("id") val id: String = "",
+    @PropertyName("name") val name: String = ""
 )

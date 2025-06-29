@@ -1,4 +1,4 @@
-package com.biometricapp.ui.theme
+package com.biometricapp.ui
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
