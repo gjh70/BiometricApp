@@ -59,8 +59,7 @@ BiometricApp is an Android application that demonstrates biometric authenticatio
    - Open the project in Android Studio.
    - Sync Gradle and run the app on a device with biometric capabilities.
 
-## Screenshots
-(images/screenshot.png)
+
 
 
 
